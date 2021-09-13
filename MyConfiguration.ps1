@@ -141,4 +141,4 @@ configuration DemoDotNet1
 
     DemoDotNet1 -verbose 
 
-    Start-DscConfiguration -Path 'C:\DemoDotnet1' -wait -Force -Verbose
+    Start-DscConfiguration -Path 'C:\DSC\DemoDotnet1' -wait -Force -Verbose
